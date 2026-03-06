@@ -3,7 +3,7 @@
 A real-time dashboard that correlates financial news sentiment with stock price movements using Python, NLP, and Streamlit.
 
 ## 🚀 Live Demo
-[View on Streamlit Cloud](#) ← Replace with your deployed URL
+https://manjunath-stock-sentiment.streamlit.app/
 
 ## 📊 Features
 - **Live stock data** via yfinance (no API key needed)
